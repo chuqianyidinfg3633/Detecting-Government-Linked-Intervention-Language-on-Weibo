@@ -10,7 +10,7 @@ RUW dataset (UIUC), a collection of public Weibo posts about the Russia–Ukrain
 
 
 Reproducing results (notebook workflow)
-Run the notebook top-to-bottom. The notebook export is included as Yaya ML Final Project.ipynb.
+Run the notebook top-to-bottom. The notebook export is included as Detecting 50c on Weibo.ipynb.
 Main steps:
 Load and preprocess KPR positives
 Load and preprocess RUW unlabeled posts
